@@ -1,0 +1,3 @@
+[submodule "sub-dummy"]
+	path = sub-dummy
+	url = https://github.com/chandushine/dummy.git
